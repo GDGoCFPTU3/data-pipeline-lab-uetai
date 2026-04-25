@@ -1,7 +1,14 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23702494&assignment_repo_type=AssignmentRepo)
 # Codelab 03: The Multi-Modal Minefield
+
 **Student Name**: Nguyen Minh Hieu
+
 **Student ID**: 2A202600180
+
+**GithubName**: nmhieuhieuhieu
+
+**Email**: minhhieutrumhoa1@gmail.com
+
 **Team**: 1 member
 **Topic**: Data Pipeline Engineering - Unstructured Data Orchestration
 
